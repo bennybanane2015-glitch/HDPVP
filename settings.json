@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "HDPVP",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "hdpvp-k1iU.aternos.me",
+    "port": 20667,
     "version": "",
     "try-creative": false
   },
